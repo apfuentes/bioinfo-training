@@ -1,3 +1,3 @@
 # bioinfo-training
 
-Go to the Wiki tab to go trhough the materials in this repository.
+Go to the Wiki tab to find the materials related to this tutorial.
